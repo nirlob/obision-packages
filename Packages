@@ -1,3 +1,30 @@
+Package: gnome-shell-extension-obision-dash
+Source: obision-ext-dash
+Version: 0.9.0-1
+Architecture: all
+Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
+Installed-Size: 193
+Depends: gnome-shell (>= 45)
+Filename: debs/obision-ext-dash_0.9.0_all.deb
+Size: 29478
+MD5sum: 8dc2f6008c0d70c524ebb6aa531d60ad
+SHA1: 53998f18b4812c9f144f782c7401d44ad3312d64
+SHA256: ee7790b272878faa625c3f2405469a26341c2f5b5a950db83f21cd8129666229
+Section: gnome
+Priority: optional
+Homepage: https://github.com/nirlob/obision-ext-dash
+Description: Customizable dash/taskbar extension for GNOME Shell
+ Obision Dash is a modern GNOME Shell extension that provides
+ a highly customizable taskbar with advanced features.
+ .
+ Features:
+  - Show Desktop button (Windows-style)
+  - Panel separator with customizable appearance
+  - Icon background and border customization
+  - Auto-hide panel support
+  - Panel position configuration (left/right/top/bottom)
+  - Extensive color and sizing options
+
 Package: obision-app-optional-soft
 Version: 0.16.0
 Architecture: all
