@@ -6,13 +6,13 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: Obision custom packages repository
-Date: Fri, 19 Dec 2025 20:15:25 +0000
+Date: Fri, 19 Dec 2025 20:16:36 +0000
 MD5Sum:
- 27d5bcd228b6333958e273ffa8ebd5b6 2861 Packages
- f4de74e2a0b646dfb9684ece4ada067b 1290 Packages.gz
+ feaa6a21ea724b1c48fac5c4f2abb371 2861 Packages
+ 6a788d640fef1ad047ad24b30e8a2f80 1288 Packages.gz
 SHA1:
- 99545bc08c16b5b948be4997a8a713230dba41f3 2861 Packages
- 901c300ecc7fee82546227f908b0fa7a35451bd8 1290 Packages.gz
+ 8f71409fbd3cd9669c83f4406d3151f10f529560 2861 Packages
+ e5ac128bcf4597da6475f6b0a90c2c9c72011f9a 1288 Packages.gz
 SHA256:
- 82d4a1038ba64e468deb51df2a744a07873e9adb9f17cd9c022ac3e6696ac483 2861 Packages
- 58bf761682f7c628ec64977790da17c206056fa8b86193de3e6d598db8845712 1290 Packages.gz
+ ecb9f1cf1d345044330cff82d26a9cc17f74720fce73abc057f28ab555fac1eb 2861 Packages
+ 498b78c63baada4718aa8b76aa2624ee24129d481b751aca66f3006a254697e3 1288 Packages.gz
