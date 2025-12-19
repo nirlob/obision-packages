@@ -4,7 +4,7 @@ Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 15495
 Depends: dconf-gsettings-backend | gsettings-backend, gjs, libgtk-4-1, libadwaita-1-0, flatpak, apt
-Filename: debs/obision-app-optional-soft_0.16.0_all.deb
+Filename: ./debs/obision-app-optional-soft_0.16.0_all.deb
 Size: 14140078
 MD5sum: f062b89d07d87a5c5cfa2559093f03a7
 SHA1: e203c9029ab577da2fc881786b984f2aacf1932b
@@ -28,7 +28,7 @@ Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 714
 Depends: dconf-gsettings-backend | gsettings-backend, gjs, libgtk-4-1, libadwaita-1-0, libglib2.0-0
-Filename: debs/obision-app-system_0.4.0_all.deb
+Filename: ./debs/obision-app-system_0.4.0_all.deb
 Size: 83768
 MD5sum: d9db28da83df53e19b4c9d386e1e5ec0
 SHA1: 52708d8cd5698ac60deb8dae23bfda0524cf3545
@@ -58,7 +58,7 @@ Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 9
 Depends: gnome-shell (>= 45)
-Filename: debs/obision-ext-dash_0.6.0_all.deb
+Filename: ./debs/obision-ext-dash_0.6.0_all.deb
 Size: 2104
 MD5sum: 88478cb3cb2ebc6bcbcb2f6bd89f5081
 SHA1: b9218a16e0c907ad5c4488803cae5e6c74106fce
