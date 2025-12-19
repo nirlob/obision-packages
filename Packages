@@ -1,14 +1,14 @@
 Package: obision-app-optional-soft
-Version: 0.12.0
+Version: 0.13.0
 Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 15495
 Depends: dconf-gsettings-backend | gsettings-backend, gjs, libgtk-4-1, libadwaita-1-0, flatpak, apt
-Filename: debs/obision-app-optional-soft_0.12.0_all.deb
-Size: 14140002
-MD5sum: 53a60f1fa5b12c8c891940a0d55e1fd9
-SHA1: d009b1d3d2ce0889dfeac0edf79ad7d427391387
-SHA256: edb0d97ed229529b4e79bdc949aa7b34bc41f9df42a0d8db3f639222a63511f4
+Filename: debs/obision-app-optional-soft_0.13.0_all.deb
+Size: 14139990
+MD5sum: 4ab2af3313d6401ab3da6e0b00a0745d
+SHA1: 64ae7032a0d097b48a03bdf4668355f33595f022
+SHA256: efb8115f843cfcb1fae967868cf2e07c5d96d37d37414222847e05f435763607
 Section: gnome
 Priority: optional
 Homepage: https://github.com/nirlob/obision-app-optional-soft
