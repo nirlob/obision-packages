@@ -1,0 +1,24 @@
+Package: obision-app-optional-soft
+Version: 0.11.0
+Architecture: all
+Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
+Installed-Size: 15495
+Depends: dconf-gsettings-backend | gsettings-backend, gjs, libgtk-4-1, libadwaita-1-0, flatpak, apt
+Filename: debs/obision-app-optional-soft_0.11.0_amd64.deb
+Size: 14140072
+MD5sum: b6062c15e8537fc64755222e3cb25cf1
+SHA1: 3d6dbf86a1caf98060be42caf92a77353677a205
+SHA256: c14cfeed10a94b25d7499b1da83a512677a835458fd19ba9f219494c2aec350f
+Section: utils
+Priority: optional
+Homepage: https://github.com/nirlob/obision-app-optional-soft
+Description: Optional applications installer
+ GNOME application installer for managing Flatpak and Debian package
+ installations. Built with TypeScript, GTK4, and Libadwaita.
+ .
+ Features:
+  - Flatpak application management
+  - Debian package installation
+  - Category-based organization
+  - Modern GNOME interface
+
