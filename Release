@@ -6,13 +6,13 @@ Version: 1.0
 Architectures: arm64
 Components: main
 Description: Obision custom packages repository
-Date: Fri, 19 Dec 2025 20:05:37 +0000
+Date: Fri, 19 Dec 2025 20:07:52 +0000
 MD5Sum:
  897e27cc61cc28d41a7ae576ab4e6813 2869 Packages
- ea548f7753c7b4c2da48707908ed43d8 1294 Packages.gz
+ 1397d5fa4b0c388c20ed1fd94f259a82 1294 Packages.gz
 SHA1:
  520a333377c2ac5777ec498c4f1cadc91db3cf3d 2869 Packages
- 1a4b6f12f995caf5af50122f5d001e4b27cca4cb 1294 Packages.gz
+ 16e48fc629e1004e98d04b9d70a75c9c64c41648 1294 Packages.gz
 SHA256:
  9d6d32ee0a771ebedc743472bef091dfbe5c18c5b638b19ca7c78e8b2c59edac 2869 Packages
- 36570b09fb2eb763ac05217071186b47a013d7bc23539172ac820339fa3ee2f6 1294 Packages.gz
+ 723c9d532a42bb3713f3fd30be675c3fd49b022408cd8aca153f026e3b96bc34 1294 Packages.gz
