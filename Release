@@ -1,18 +1,17 @@
 Origin: Obision
-Label: Obision Repository
+Label: Obision Packages
 Suite: stable
 Codename: stable
-Version: 1.0
-Architectures: amd64
+Architectures: all amd64 arm64
 Components: main
-Description: Obision applications repository
-Date: Fri, 19 Dec 2025 20:42:09 +0000
+Description: Obision APT Repository
+Date: Fri, 19 Dec 2025 20:53:44 +0000
 MD5Sum:
- de887d691e4e8ed6b1e1dbfc977835bc 2861 Packages
- eba0861765f5018ddf68aad7abe5582e 1287 Packages.gz
+ af3e39237d27a4036f070c4b31c8e534 2861 Packages
+ 0185dcfd4dcd35d03e9f9ae69e9e0824 1289 Packages.gz
 SHA1:
- 7c6f1d48f066acb1382a16bf4001fa300a795e7f 2861 Packages
- d9181855df62c6661ff476dd291ca74007c2422e 1287 Packages.gz
+ 8c516478ca51b6ad978590c8a2740f74e07e202b 2861 Packages
+ 702c293f5b67a20f300762baa5532843fe2c1f72 1289 Packages.gz
 SHA256:
- 16b9e086787b4c3d5b9bccdd8d310f23942c0ead914917e0e4d444e8c00765b0 2861 Packages
- 433180158fbbd0a0c323df0c00c7a67973ae5bd57173b4fa2c04551aab0c57d2 1287 Packages.gz
+ 65a2b75682877fd8020caa08ab7691e85ba634ac802f70b4a155763576d3b20d 2861 Packages
+ ee1ef432edeb33915b73e1d36e0e513913065a04287761dc3ef68cab65c25af5 1289 Packages.gz
