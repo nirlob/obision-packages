@@ -1,15 +1,15 @@
 Package: gnome-shell-extension-obision-dash
 Source: obision-ext-dash
-Version: 0.13.0-1
+Version: 0.14.0-1
 Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 193
 Depends: gnome-shell (>= 45)
-Filename: debs/obision-ext-dash_0.13.0_all.deb
-Size: 29568
-MD5sum: 066f800cb8bb57364f84559cfb959ab5
-SHA1: 59f57195b2664dbeae2abbb16578f31f3a6e3b26
-SHA256: fbe63fcab455335b555d6149f2d4f948e253cbcb6a372a48aa842796cf8c61d3
+Filename: debs/obision-ext-dash_0.14.0_all.deb
+Size: 29554
+MD5sum: e7e350d226a7da5fb014429e2e2caeba
+SHA1: 815a2bcef196e0aab0f71d1a5146abcdfca3086d
+SHA256: 7e7e5d4ffed4321f95da0581833eca4852af6eb9df8d3f2ae4d80e71066ee509
 Section: gnome
 Priority: optional
 Homepage: https://github.com/nirlob/obision-ext-dash
