@@ -53,16 +53,16 @@ Description: Modern system monitoring application for GNOME
  customizable refresh intervals, and persistent settings.
 
 Package: obision-ext-dash
-Version: 0.1.0-1
+Version: 0.2.0-1
 Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 9
 Depends: gnome-shell (>= 45)
-Filename: debs/obision-ext-dash_0.1.0_all.deb
-Size: 2048
-MD5sum: 90d92fe7aff06e9b3167beee69d7fdef
-SHA1: d24d2f694147d1ac34ab63b4780d47ee07be17f7
-SHA256: f5b371c8d33776e116eb107c871cedbf3dabf73ba1ff20dd4191972adda78b0a
+Filename: debs/obision-ext-dash_0.2.0_all.deb
+Size: 2064
+MD5sum: 972b5d563cf305bc6f4bf0473a693f27
+SHA1: 1ab3d8175d6ca0b10882b2f7a62b6a4ea6a24fe8
+SHA256: 9d87b68bdf47d7beed7bd67ed924a3f8e327c03860eb82bb72d3d59ee69c579b
 Section: gnome
 Priority: optional
 Homepage: https://github.com/nirlob/obision-ext-dash

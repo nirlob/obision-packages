@@ -5,13 +5,13 @@ Codename: stable
 Architectures: all amd64 arm64
 Components: main
 Description: Obision APT Repository
-Date: Fri, 19 Dec 2025 19:27:56 +0000
+Date: Fri, 19 Dec 2025 19:28:32 +0000
 MD5Sum:
- 72cc2e7a2546b53cdc1e9d7ed8a4cf75 2863 Packages
- cc9c04275eae2f2da621147388a06287 1289 Packages.gz
+ 3a4856b5bdb413a329c131f961ced5d7 2863 Packages
+ 89772e82e4dcd7b16a5907dc944cc762 1292 Packages.gz
 SHA1:
- 77c5a9223259afb354835d6619624116aba6f2ee 2863 Packages
- 94c77a3cc501f17c5a2c8b0f11e734f24d0a0851 1289 Packages.gz
+ 2c29ab9b56f0fa6cdc9acd9365989c3016d67bfd 2863 Packages
+ 8cd2c2ac8e5046133915fff56741a66ecc56ec43 1292 Packages.gz
 SHA256:
- ee0678e66b41712c7f21659942a676d7b03eb346691a0e02ffc33820aa84659e 2863 Packages
- 5abde14338c41a8af64dfdc984ac38571f0498bc13d139610f701c63b3fbd348 1289 Packages.gz
+ 2d31e859092343cb3d5cc1802b3e11498c556609feb65e9a545bba6cae51dab7 2863 Packages
+ 1b9af34f2007c55b8732460ff1ab7c020022c6bdd3ce5732588822c8a21a3d57 1292 Packages.gz
