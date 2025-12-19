@@ -3,16 +3,16 @@ Label: Obision Packages
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: arm64
+Architectures: all
 Components: main
 Description: Obision custom packages repository
-Date: Fri, 19 Dec 2025 20:10:56 +0000
+Date: Fri, 19 Dec 2025 20:15:25 +0000
 MD5Sum:
- 687187d04f6b0b25fbedc171cbc0ab9e 2863 Packages
- 55d449f0aa39709a263cc352fe5163c0 1293 Packages.gz
+ 27d5bcd228b6333958e273ffa8ebd5b6 2861 Packages
+ f4de74e2a0b646dfb9684ece4ada067b 1290 Packages.gz
 SHA1:
- c114b3e57b29303cc3d36bc10d13ed7112f34b41 2863 Packages
- 747903df8241b1c34359299dad6750c90fbfc5b7 1293 Packages.gz
+ 99545bc08c16b5b948be4997a8a713230dba41f3 2861 Packages
+ 901c300ecc7fee82546227f908b0fa7a35451bd8 1290 Packages.gz
 SHA256:
- 597d14925f359b30a8f936a6624dd51be970544fc23542167120f3aff8b7b785 2863 Packages
- 766f7a73de07e70006a5d1c26cbaac9c6c76d65219140fac71745593b1da1bd6 1293 Packages.gz
+ 82d4a1038ba64e468deb51df2a744a07873e9adb9f17cd9c022ac3e6696ac483 2861 Packages
+ 58bf761682f7c628ec64977790da17c206056fa8b86193de3e6d598db8845712 1290 Packages.gz
