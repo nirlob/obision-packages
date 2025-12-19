@@ -23,16 +23,16 @@ Description: Optional applications installer
   - Modern GNOME interface
 
 Package: obision-app-system
-Version: 0.2.0
+Version: 0.3.0
 Architecture: all
 Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
 Installed-Size: 715
 Depends: dconf-gsettings-backend | gsettings-backend, gjs, libgtk-4-1, libadwaita-1-0, libglib2.0-0
-Filename: debs/obision-app-system_0.2.0_all.deb
-Size: 83240
-MD5sum: 48d5c5ab64079e015776103c02bdebd6
-SHA1: 2fb1aef9da6c0affbbd6f72c141cfe97c8836f76
-SHA256: 40df22aa14a9f863a863dcd27a3f4bcc2f8f20a6e911f578ff12edc05a96c0d7
+Filename: debs/obision-app-system_0.3.0_all.deb
+Size: 83232
+MD5sum: e902afec085de4ffd74765eb8fe8b785
+SHA1: 1b689af9888fe12c39ec459dcbe7521f52b49bce
+SHA256: 670dd30bbd892af0f5f8a6c1b56daf61373aa07c4859d63c132b549bdd836b0e
 Section: utils
 Priority: optional
 Homepage: https://github.com/nirlob/obision-app-system
