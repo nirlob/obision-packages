@@ -22,3 +22,33 @@ Description: Optional applications installer
   - Category-based organization
   - Modern GNOME interface
 
+Package: obision-app-system
+Version: 0.3.0
+Architecture: all
+Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
+Installed-Size: 714
+Depends: dconf-gsettings-backend | gsettings-backend, gjs, libgtk-4-1, libadwaita-1-0, libglib2.0-0
+Filename: debs/obision-app-system_0.3.0_all.deb
+Size: 83810
+MD5sum: a7b4cac8d57f27e7a5957a01ffc0f603
+SHA1: be83339e70bd033b7e2224fffb0bea2ac6eccc8c
+SHA256: 3d9037c5d1bde109c2842ff3fbfb05f99be690b93ed145e6ad6ae80ebcaef0c3
+Section: utils
+Priority: optional
+Homepage: https://github.com/nirlob/obision-app-system
+Description: Modern system monitoring application for GNOME
+ Obision System is a comprehensive system monitoring application for
+ GNOME that provides real-time information about:
+ .
+  * CPU usage and temperature
+  * GPU usage and temperature
+  * Memory and disk usage
+  * Network statistics
+  * System processes
+  * System services
+  * Hardware drivers
+  * System logs
+ .
+ Features a modern GTK4/Libadwaita interface with circular charts,
+ customizable refresh intervals, and persistent settings.
+
