@@ -6,13 +6,13 @@ Version: 1.0
 Architectures: amd64
 Components: main
 Description: Obision applications repository
-Date: Fri, 19 Dec 2025 20:40:38 +0000
+Date: Fri, 19 Dec 2025 20:42:09 +0000
 MD5Sum:
- f59032249fb78dbfc7aeb37305d808d4 2861 Packages
- 48c2b6d8763334b46c15259779e2e3ba 1286 Packages.gz
+ de887d691e4e8ed6b1e1dbfc977835bc 2861 Packages
+ eba0861765f5018ddf68aad7abe5582e 1287 Packages.gz
 SHA1:
- 3314cd1e35d313a018e21717e2559a8019aad460 2861 Packages
- 49aae9ab8aae8a080955b203a6c00c57e41831f6 1286 Packages.gz
+ 7c6f1d48f066acb1382a16bf4001fa300a795e7f 2861 Packages
+ d9181855df62c6661ff476dd291ca74007c2422e 1287 Packages.gz
 SHA256:
- f50da99f760492b2cd9a904d7a0ada70c69f4d35e3da6632b5a2bf8d48fc5f5e 2861 Packages
- 3e4001f0c3a537f97966f660f96a4f1431f8b12feda6599e55be64e6c78301dd 1286 Packages.gz
+ 16b9e086787b4c3d5b9bccdd8d310f23942c0ead914917e0e4d444e8c00765b0 2861 Packages
+ 433180158fbbd0a0c323df0c00c7a67973ae5bd57173b4fa2c04551aab0c57d2 1287 Packages.gz
