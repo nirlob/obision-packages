@@ -1,3 +1,30 @@
+Package: gnome-shell-extension-obision-dash
+Source: obision-ext-dash
+Version: 0.1.0-1
+Architecture: all
+Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
+Installed-Size: 193
+Depends: gnome-shell (>= 45)
+Filename: debs/obision-ext-dash_0.1.0_all.deb
+Size: 29374
+MD5sum: 280599c18dcca256a816a7622d31a4d6
+SHA1: 6ed40e60c848f19c8b5756f5cd7d8d9f42d63016
+SHA256: d31a148a0574cf6ea2e88dc8689652c51049219d45e8d0886b1466b22c29dfad
+Section: gnome
+Priority: optional
+Homepage: https://github.com/nirlob/obision-ext-dash
+Description: Customizable dash/taskbar extension for GNOME Shell
+ Obision Dash is a modern GNOME Shell extension that provides
+ a highly customizable taskbar with advanced features.
+ .
+ Features:
+  - Show Desktop button (Windows-style)
+  - Panel separator with customizable appearance
+  - Icon background and border customization
+  - Auto-hide panel support
+  - Panel position configuration (left/right/top/bottom)
+  - Extensive color and sizing options
+
 Package: obision-app-optional-soft
 Version: 0.16.0
 Architecture: all
@@ -51,30 +78,4 @@ Description: Modern system monitoring application for GNOME
  .
  Features a modern GTK4/Libadwaita interface with circular charts,
  customizable refresh intervals, and persistent settings.
-
-Package: obision-ext-dash
-Version: 0.2.0-1
-Architecture: all
-Maintainer: Jose Francisco Gonzalez <jfgs1609@gmail.com>
-Installed-Size: 9
-Depends: gnome-shell (>= 45)
-Filename: debs/obision-ext-dash_0.2.0_all.deb
-Size: 2064
-MD5sum: 972b5d563cf305bc6f4bf0473a693f27
-SHA1: 1ab3d8175d6ca0b10882b2f7a62b6a4ea6a24fe8
-SHA256: 9d87b68bdf47d7beed7bd67ed924a3f8e327c03860eb82bb72d3d59ee69c579b
-Section: gnome
-Priority: optional
-Homepage: https://github.com/nirlob/obision-ext-dash
-Description: Customizable dash/taskbar extension for GNOME Shell
- Obision Dash is a modern GNOME Shell extension that provides
- a highly customizable taskbar with advanced features.
- .
- Features:
-  - Show Desktop button (Windows-style)
-  - Panel separator with customizable appearance
-  - Icon background and border customization
-  - Auto-hide panel support
-  - Panel position configuration (left/right/top/bottom)
-  - Extensive color and sizing options
 
